@@ -32,7 +32,7 @@ From the dashboard, some meaningful insights were discovered:
 
 ---
 
-![image]()
+![image](https://github.com/snigdhasikdar90-arch/FNP-Sales-Data-Analysis-Excel/blob/main/FNP%20Sales%20Data.png?raw=true)
 
 ---
 
